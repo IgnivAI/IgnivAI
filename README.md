@@ -1,7 +1,5 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=003366&size=25&lines=AUTOMATIZACIÓN+NEGOCIOS)](https://git.io/typing-svg)
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=003366&size=25&lines=AUTOMATIZACIÓN+NEGOCIOS)](https://git.io/typing-svg)
+  
 ![IgnivAI](Banner_IGNIVAI.png)
 
 [![Facebook](https://imageurl/facebook_icon.png)](https://www.facebook.com/tu_pagina) [![Twitter](https://imageurl/twitter_icon.png)](https://www.twitter.com/tu_pagina) [![LinkedIn](https://imageurl/linkedin_icon.png)](https://www.linkedin.com/in/tu_pagina)
