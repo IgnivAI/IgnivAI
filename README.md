@@ -5,8 +5,8 @@ Automatización de Negocios
 
 [![Facebook](https://imageurl/facebook_icon.png)](https://www.facebook.com/tu_pagina) [![Twitter](https://imageurl/twitter_icon.png)](https://www.twitter.com/tu_pagina) [![LinkedIn](https://imageurl/linkedin_icon.png)](https://www.linkedin.com/in/tu_pagina)
 
-## Descripción de la Agencia
-En AutomatizaTuNegocio, nos especializamos en brindar soluciones integrales de automatización para optimizar y transformar los procesos empresariales de nuestros clientes. Nuestro objetivo es incrementar la eficiencia, reducir costos y mejorar la calidad de los servicios mediante la implementación de tecnologías avanzadas.
+## Descripción:
+En IgnivAI, nos especializamos en brindar soluciones integrales de automatización para optimizar y transformar los procesos empresariales de nuestros clientes. Nuestro objetivo es incrementar la eficiencia, reducir costos y mejorar la calidad de los servicios mediante la implementación de tecnologías avanzadas.
 
 ## Servicios Ofrecidos
 - **Automatización de Procesos Empresariales (BPA):** Identificación y automatización de procesos clave para mejorar la eficiencia operativa.
