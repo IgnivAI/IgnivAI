@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=003366&size=25&lines=AUTOMATIZACIÓN+NEGOCIOS)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=003366&size=25&lines=AUTOMATIZACIÓN+NEGOCIOS">
+</p>
   
 ![IgnivAI](Banner_IGNIVAI.png)
 
