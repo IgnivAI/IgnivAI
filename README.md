@@ -1,7 +1,8 @@
 # IgnivAI
 Automatización de Negocios
 
-![Imagen Interactiva](https://github.com/tu_usuario/tu_repositorio/ruta/a/tu_imagen.png)
+![Imagen Interactiva](https://github.com/IgnivAI
+/ign.jpg/tu_repositorio/ruta/a/tu_imagen.png)
 ign.jpg
 > Haz click [aquí](https://github.com/tu_usuario/tu_repositorio/ruta/a/tu_imagen.png) para ver una versión interactiva.
 
