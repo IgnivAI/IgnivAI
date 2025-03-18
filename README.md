@@ -1,4 +1,4 @@
-![IgnivAI](Logo.mp4)
+![IgnivAI](Logo1.jpg)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=1DA1F2&size=28&lines=AUTOMATIZACIÓN++DE+TAREAS;GESTION+DE+DATOS;INTEGRACION+DE+SISTEMAS;FLUJOS+DE+TRABAJO;GESTION+DE+PROYECTOS;ANALISIS+DE+DATOS;OPTIMIZACION+MARKETING">
 
