@@ -42,3 +42,7 @@ Desarrollamos una integración personalizada entre el sistema CRM y ERP de una e
 - **Teléfono:** +123 456 7890
 - **Dirección:** Calle Falsa 123, Ciudad, País
 - **Sitio Web:** [www.automatizatunegocio.com](http://www.automatizatunegocio.com)
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
