@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=5DADE2&size=25&lines=IGNIVAI;AGENCIA+DE+AUTOMATIZACIÓN+DE+NEGOCIOS)](https://git.io/typing-svg)
-2. Dividir el texto en dos líneas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=5DADE2&size=30&lines=IGNIVAI;AGENCIA+DE+AUTOMATIZACIÓN+DE+NEGOCIOS)](https://git.io/typing-svg)
 
 # IgnivAI
 Automatización de Negocios
