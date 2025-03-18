@@ -1,5 +1,5 @@
-# Nombre de la Agencia
-AutomatizaTuNegocio
+# IgnivAI
+Automatización de Negocios
 
 ![Imagen Interactiva](https://github.com/tu_usuario/tu_repositorio/ruta/a/tu_imagen.png)
 > Haz click [aquí](https://github.com/tu_usuario/tu_repositorio/ruta/a/tu_imagen.png) para ver una versión interactiva.
