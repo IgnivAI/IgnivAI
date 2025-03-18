@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=5DADE2&size=30&lines=AGENCIA+IGNIVAI;AUTOMATIZACIÓN+NEGOCIOS)](https://git.io/typing-svg)
-# IgnivAI
-Automatización de Negocios
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=5DADE2&size=30&lines=AGENCIA+IGNIVAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=FF5733&size=25&lines=AUTOMATIZACIÓN+NEGOCIOS)](https://git.io/typing-svg)
 
 ![IgnivAI](Banner_IGNIVAI.png)
 
