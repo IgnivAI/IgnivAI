@@ -1,8 +1,7 @@
 # IgnivAI
 Automatización de Negocios
 
-![IgnivAI](IgnivAI
-/Banner_IGNIVAI.png)
+![IgnivAI](Banner_IGNIVAI.png)
 
 [![Facebook](https://imageurl/facebook_icon.png)](https://www.facebook.com/tu_pagina) [![Twitter](https://imageurl/twitter_icon.png)](https://www.twitter.com/tu_pagina) [![LinkedIn](https://imageurl/linkedin_icon.png)](https://www.linkedin.com/in/tu_pagina)
 
