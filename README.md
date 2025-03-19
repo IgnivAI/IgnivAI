@@ -100,6 +100,32 @@ En **IgnivAI**, trabajamos estrechamente con nuestros clientes para implementar 
 [![Outlook](https://img.shields.io/badge/Outlook-%231747C7?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com)  
 ---
 
+## 🎥 **Proyectos Destacados**
+
+### 🌟 Proyecto 1: Automatización de Facturación
+Implementamos una solución de RPA para automatizar el proceso de facturación en una empresa de logística, reduciendo el tiempo de procesamiento en un 70% y eliminando errores humanos.  
+[Ver Proyecto](https://github.com/tu_usuario/tu_repositorio/proyecto_1)
+
+### 🌟 Proyecto 2: Integración de CRM y ERP
+Desarrollamos una integración personalizada entre el sistema CRM y ERP de una empresa retail, mejorando la visibilidad de datos y la toma de decisiones estratégicas.  
+[Ver Proyecto](https://github.com/tu_usuario/tu_repositorio/proyecto_2)
+
+### 🌟 Proyecto 3: Análisis Predictivo de Datos
+Utilizamos algoritmos de machine learning para predecir tendencias de ventas en una empresa de comercio electrónico, lo que permitió optimizar el inventario y aumentar las ventas en un 25%.  
+[Ver Proyecto](https://github.com/tu_usuario/tu_repositorio/proyecto_3)
+
+---
+
+## 💬 **Testimonios de Clientes**
+
+> "IgnivAI nos ayudó a transformar completamente nuestros procesos operativos. La automatización ha sido clave para nuestro crecimiento."  
+> — **Carlos Martínez, CEO de Logística XYZ**
+
+> "Gracias a IgnivAI, hemos reducido significativamente los costos operativos y mejorado la eficiencia de nuestro equipo."  
+> — **Ana López, Directora de Tecnología en Retail ABC**
+
+---
+
 ## 👨‍💻 **Fundadores**
 
 - **Jorge Iván Patiño** - CEO y Fundador  
@@ -126,12 +152,6 @@ En **IgnivAI**, trabajamos estrechamente con nuestros clientes para implementar 
 - 🌍 **Sitio Web:** [www.ignivai.com](http://www.automatizatunegocio.com)
 
 ---
-
-## 📊 **Estadísticas de GitHub**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgnivAI&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnivAI&layout=compact&theme=radical" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IgnivAI&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="IgnivAI" />
