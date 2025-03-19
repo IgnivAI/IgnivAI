@@ -132,3 +132,7 @@ En **IgnivAI**, trabajamos estrechamente con nuestros clientes para implementar 
   <img src="https://github-readme-stats.vercel.app/api?username=IgnivAI&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnivAI&layout=compact&theme=radical" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgnivAI&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="IgnivAI" />
+</p>
