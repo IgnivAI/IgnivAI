@@ -1,19 +1,18 @@
-# IgnivAI - Automatización de Negocios 🤖
-
 <p align="center">
   <img src="Logo1.jpg" width="1200" alt="IgnivAI" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); animation: rotateLogo 10s infinite linear;">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=0000FF&size=35&center=true&vCenter=true&width=900&lines=🤖+IGNIVAI+🤖;Transformando+el+futuro+con+IA;Automatización+de+Tareas+Inteligentes;Flujos+de+Trabajo+Optimizado;Innovación+en+Integración+de+Sistemas;Análisis+Predictivo+de+Datos">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=00BFFF&size=40&center=true&vCenter=true&width=900&lines=🤖+IGNIVAI+🤖;Transformando+el+futuro+con+IA;Automatización+de+Tareas+Inteligentes;Flujos+de+Trabajo+Optimizado;Innovación+en+Integración+de+Sistemas;Análisis+Predictivo+de+Datos">
 </p>
 
 ---
 
-## 🚀 **Descripción**
+## 💻 **Descripción**
 
-**IgnivAI** es una empresa dedicada a **automatizar** y transformar procesos empresariales mediante el uso de **Inteligencia Artificial (IA)**, **RPA** y soluciones **No-Code/Low-Code**.  
-Nuestro principal objetivo es **maximizar la eficiencia**, **reducir costos** y **elevar la calidad de los servicios** utilizando tecnologías innovadoras.
+**IgnivAI** es una agencia especializada en **automatización empresarial** y transformación digital mediante el uso de **Inteligencia Artificial (IA)**, **Automatización de Procesos Robóticos (RPA)** y soluciones **No-Code/Low-Code**. Nuestro objetivo es ayudar a las organizaciones a **optimizar sus procesos**, **reducir costos operativos** y **mejorar la calidad de los servicios** a través de tecnologías de vanguardia.
+
+En **IgnivAI**, trabajamos estrechamente con nuestros clientes para implementar soluciones personalizadas que permitan un **análisis avanzado de datos**, la **automatización inteligente de tareas repetitivas** y la creación de **plataformas de aplicaciones** sin necesidad de programación compleja. Con una metodología ágil y orientada a resultados, nos enfocamos en proporcionar soluciones que generen un impacto positivo en la productividad y competitividad de las empresas en diversos sectores.
 
 ---
 
@@ -58,41 +57,73 @@ Nuestro principal objetivo es **maximizar la eficiencia**, **reducir costos** y 
 [![n8n](https://img.shields.io/badge/n8n-%23E85D0B?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)  
 [![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com)  
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-%230066CC?style=for-the-badge&logo=power-automate&logoColor=white)](https://flow.microsoft.com)  
-[![Integromat](https://img.shields.io/badge/Integromat-%230066CC?style=for-the-badge&logo=integromat&logoColor=white)](https://www.integromat.com)
+[![Integromat](https://img.shields.io/badge/Integromat-%230066CC?style=for-the-badge&logo=integromat&logoColor=white)](https://www.integromat.com)  
+[![Voiceflow](https://img.shields.io/badge/Voiceflow-%23000000?style=for-the-badge&logo=voiceflow&logoColor=white)](https://www.voiceflow.com)  
+[![Webhooks](https://img.shields.io/badge/Webhooks-%23F5A623?style=for-the-badge&logo=webhooks&logoColor=white)](https://webhooks.site)  
 
 ### 🤖 **Inteligencia Artificial & Machine Learning**
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)  
-[![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)  
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-%2300BFFF?style=for-the-badge&logo=deeplearning&logoColor=white)](https://www.deepseek.ai)  
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)  
 
 ### 🧮 **Análisis y Gestión de Datos**
 [![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  
 [![Airtable](https://img.shields.io/badge/Airtable-%23FF9900?style=for-the-badge&logo=airtable&logoColor=white)](https://airtable.com)  
-[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com)
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com)  
+[![SQL](https://img.shields.io/badge/SQL-%230074F7?style=for-the-badge&logo=sql&logoColor=white)](https://www.mysql.com)  
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
 
 ### 🏗 **No-Code & Low-Code**
 [![Bubble](https://img.shields.io/badge/Bubble-%230043FF?style=for-the-badge&logo=bubble&logoColor=white)](https://bubble.io)  
 [![Trello](https://img.shields.io/badge/Trello-%230074C1?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)  
-[![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+[![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)  
+[![Typeform](https://img.shields.io/badge/Typeform-%23F1F1F1?style=for-the-badge&logo=typeform&logoColor=white)](https://www.typeform.com)  
 
+### 🌐 **APIs y Formularios**
+[![API](https://img.shields.io/badge/APIs-%231999F7?style=for-the-badge&logo=api&logoColor=white)](https://www.apis.guru)  
+[![Formstack](https://img.shields.io/badge/Formstack-%23F2A900?style=for-the-badge&logo=formstack&logoColor=white)](https://www.formstack.com)  
+
+### 💬 **Comunicación**
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384C759?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-%230084E7?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)  
+[![Discord](https://img.shields.io/badge/Discord-%237A47D7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)  
+
+### 📧 **Microsoft & Google Tools**
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%233B72A5?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com)   
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2344B78B?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets)  
+[![Google Docs](https://img.shields.io/badge/Google%20Docs-%23D33C33?style=for-the-badge&logo=google-docs&logoColor=white)](https://www.google.com/docs)  
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)  
+[![Outlook](https://img.shields.io/badge/Outlook-%231747C7?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com)  
 ---
 
-## 👨‍💻 **Equipo de Trabajo**
-- **Juan Pérez** - CEO y Fundador
-- **María López** - Directora de Tecnología
-- **Carlos García** - Gerente de Proyectos
-- **Ana Rodríguez** - Desarrolladora de Software
-- **José Martínez** - Especialista en RPA
+## 👨‍💻 **Fundadores**
+
+- **Jorge Iván Patiño** - CEO y Fundador  
+  Ingeniero Civil especializado en Análisis y Ciencia de Datos. Con experiencia en automatización de procesos, diseño de flujos de trabajo optimizados, y desarrollo de soluciones tecnológicas que mejoran la eficiencia operativa. Líder en la implementación de soluciones basadas en datos para toma de decisiones estratégicas.  
+  **Roles**:  
+  - [🔍 Analista de Datos](https://www.example.com)  
+  - [📊 Consultor en Ciencia de Datos](https://www.example.com)  
+  - [⚙️ Especialista en Automatización de Procesos](https://www.example.com)  
+  - [🚀 Líder de Proyectos Tecnológicos](https://www.example.com)
+
+- **Ignacio León** - Director de Tecnología  
+  Especialista en Diseño Web y Programación, con enfoque en la implementación de soluciones No-Code/Low-Code. Experto en optimización de flujos de trabajo, desarrollo de interfaces y creación de agentes de inteligencia artificial para automatización de tareas inteligentes.  
+  **Roles**:  
+  - [💻 Desarrollador Web](https://www.example.com)  
+  - [⚙️ Especialista en Automatización de Procesos](https://www.example.com)  
+  - [🚀 Líder de Desarrollo Tecnológico](https://www.example.com)  
+  - [🤖 Desarrollador de Agentes de IA](https://www.example.com)
 
 ---
 
 ## 📞 **Contacto**
-- 📧 **Correo Electrónico:** [contacto@automatizatunegocio.com](mailto:contacto@automatizatunegocio.com)
-- 📞 **Teléfono:** +123 456 7890
-- 📍 **Dirección:** Calle Falsa 123, Ciudad, País
-- 🌍 **Sitio Web:** [www.automatizatunegocio.com](http://www.automatizatunegocio.com)
+- 📧 **Correo Electrónico:** [ignivai2@gmail.com](mailto:contacto@automatizatunegocio.com)
+- 📞 **Teléfono:** +52 777 7747982
+- 🌍 **Sitio Web:** [www.ignivai.com](http://www.automatizatunegocio.com)
 
 ---
 
