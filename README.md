@@ -10,9 +10,26 @@
 
 ## 💻 **Descripción**
 
-**IgnivAI** es una agencia especializada en **automatización empresarial** y transformación digital mediante el uso de **Inteligencia Artificial (IA)**, **Automatización de Procesos Robóticos (RPA)** y soluciones **No-Code/Low-Code**. Nuestro objetivo es ayudar a las organizaciones a **optimizar sus procesos**, **reducir costos operativos** y **mejorar la calidad de los servicios** a través de tecnologías de vanguardia.
+**IgnivAI** es una agencia especializada en **automatización empresarial** y **transformación digital** mediante el uso de:
 
-En **IgnivAI**, trabajamos estrechamente con nuestros clientes para implementar soluciones personalizadas que permitan un **análisis avanzado de datos**, la **automatización inteligente de tareas repetitivas** y la creación de **plataformas de aplicaciones** sin necesidad de programación compleja. Con una metodología ágil y orientada a resultados, nos enfocamos en proporcionar soluciones que generen un impacto positivo en la productividad y competitividad de las empresas en diversos sectores.
+- 🤖 **Inteligencia Artificial (IA)**
+- ⚙️ **Automatización de Procesos Robóticos (RPA)**
+- 🔧 **Soluciones No-Code/Low-Code**
+
+Nuestro objetivo es ayudar a las organizaciones a:
+- 📈 **Optimizar sus procesos**
+- 💸 **Reducir costos operativos**
+- 🌟 **Mejorar la calidad de los servicios**
+
+---
+
+En **IgnivAI**, trabajamos estrechamente con nuestros clientes para implementar soluciones personalizadas que permitan:
+
+- 📊 **Análisis avanzado de datos**
+- 🧠 **Automatización inteligente de tareas repetitivas**
+- 🖥 **Creación de plataformas de aplicaciones** sin necesidad de programación compleja
+
+Con una **metodología ágil** y orientada a resultados, nos enfocamos en proporcionar soluciones que generen un impacto positivo en la **productividad** y **competitividad** de las empresas en diversos sectores.
 
 ---
 
