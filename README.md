@@ -116,36 +116,25 @@ Utilizamos algoritmos de machine learning para predecir tendencias de ventas en 
 
 ---
 
-## 💬 **Testimonios de Clientes**
-
-> "IgnivAI nos ayudó a transformar completamente nuestros procesos operativos. La automatización ha sido clave para nuestro crecimiento."  
-> — **Carlos Martínez, CEO de Logística XYZ**
-
-> "Gracias a IgnivAI, hemos reducido significativamente los costos operativos y mejorado la eficiencia de nuestro equipo."  
-> — **Ana López, Directora de Tecnología en Retail ABC**
-
----
-
 ## 👨‍💻 **Fundadores**
 
-- **Jorge Iván Patiño** - CEO y Fundador  
+✅ **Jorge Iván Patiño** - CEO y Fundador  
   Ingeniero Civil especializado en Análisis y Ciencia de Datos. Con experiencia en automatización de procesos, diseño de flujos de trabajo optimizados, y desarrollo de soluciones tecnológicas que mejoran la eficiencia operativa. Líder en la implementación de soluciones basadas en datos para toma de decisiones estratégicas.  
   **Roles**:  
-  - [🔍 Analista de Datos](https://www.example.com)  
-  - [📊 Consultor en Ciencia de Datos](https://www.example.com)  
-  - [⚙️ Especialista en Automatización de Procesos](https://www.example.com)  
-  - [🚀 Líder de Proyectos Tecnológicos](https://www.example.com)
+  - 🔍 Analista de Datos  
+  - 📊 Consultor en Ciencia de Datos  
+  - ⚙️ Especialista en Automatización de Procesos  
+  - 🚀 Líder de Proyectos Tecnológicos
 
-- **Ignacio León** - Director de Tecnología  
+✅ **Ignacio León** - Director de Tecnología  
   Especialista en Diseño Web y Programación, con enfoque en la implementación de soluciones No-Code/Low-Code. Experto en optimización de flujos de trabajo, desarrollo de interfaces y creación de agentes de inteligencia artificial para automatización de tareas inteligentes.  
   **Roles**:  
-  - [💻 Desarrollador Web](https://www.example.com)  
-  - [⚙️ Especialista en Automatización de Procesos](https://www.example.com)  
-  - [🚀 Líder de Desarrollo Tecnológico](https://www.example.com)  
-  - [🤖 Desarrollador de Agentes de IA](https://www.example.com)
+  - 💻 Desarrollador Web
+  - ⚙️ Especialista en Automatización de Procesos  
+  - 🚀 Líder de Desarrollo Tecnológico  
+  - 🤖 Desarrollador de Agentes de IA
 
 ---
-
 ## 📞 **Contacto**
 - 📧 **Correo Electrónico:** [ignivai2@gmail.com](mailto:contacto@automatizatunegocio.com)
 - 📞 **Teléfono:** +52 777 7747982
