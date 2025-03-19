@@ -1,11 +1,11 @@
-<!-- Imagen Principal Mucho Más Grande -->
+<!-- Imagen Principal Mucho Más Grande con Efecto de Sombra y Rotación -->
 <p align="center">
-  <img src="Logo1.jpg" width="1200" alt="IgnivAI">
+  <img src="Logo1.jpg" width="1000" alt="IgnivAI" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); animation: rotateLogo 10s infinite linear;">
 </p>
 
-<!-- Títulos Animados con Iconos de IA -->
+<!-- Títulos Animados con Efectos y Color -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=1DA1F2&size=40&center=true&vCenter=true&width=900&lines=🤖+IGNIVAI+🤖;AUTOMATIZACIÓN+DE+TAREAS;GESTIÓN+DE+DATOS;INTEGRACIÓN+DE+SISTEMAS;FLUJOS+DE+TRABAJO;GESTIÓN+DE+PROYECTOS;ANÁLISIS+DE+DATOS;OPTIMIZACIÓN+MARKETING">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=F0A500&size=35&center=true&vCenter=true&width=900&lines=🤖+IGNIVAI+🤖;Transformando+el+futuro+con+IA;Automatización+de+Tareas+Inteligentes;Flujos+de+Trabajo+Optimizado;Innovación+en+Integración+de+Sistemas;Análisis+Predictivo+de+Datos">
 </p>
 
 ---
